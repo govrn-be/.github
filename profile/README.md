@@ -24,7 +24,4 @@ We highly value contributions from the community! Whether you're fixing bugs, ad
 ## Support 🆘
 For any questions or issues, reach out to us through our support channels. We're here to help!
 
-## License 📜
-[Insert License Information Here]
-
 Thank you for considering contributing to Govrn, where we're enabling smart boards for smarter business decisions!
